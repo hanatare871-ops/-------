@@ -1,4 +1,5 @@
-
+[競技かるた対戦組-4.html](https://github.com/user-attachments/files/29937654/-4.html)
+<!DOCTYPE html>
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
